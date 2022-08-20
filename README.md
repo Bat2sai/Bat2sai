@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bat2sai
-- 👀 I’m interested in Coding,Security, cloud, AI, DATA 
+- 👀 I’m interested in Network & Security, cloud, AI, DATA & Coding
 - 🌱 I’m currently learning AI, CLOUD,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
